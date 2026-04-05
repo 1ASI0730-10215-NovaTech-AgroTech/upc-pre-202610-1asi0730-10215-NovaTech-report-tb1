@@ -4,7 +4,7 @@
 
 **Carrera**: Ingeniería de Software
 
-**Periodo**: 2026-10
+**Periodo**: 2026-100
 
 **Curso**: Aplicaciones Web
 

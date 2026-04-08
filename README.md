@@ -14,11 +14,19 @@
 
 **Informe de Trabajo Final**
 
-**Startup**:
+**Startup**: NovaTech
 
-**Producto**:
+**Producto**: AgroTech
 
 **Integrantes**:
+
+Acuña de la Cruz, Luis Alfredo - u202417228
+
+Aguilar Untiveros, Rodrigo Fabrizio - u202318309
+
+Howard Robles, Guillermo Arturo - u202222275
+
+Perez Encarnacion, Breithner Rodolfo - u202418577
 
 Retuerto Rodríguez, Jorge Manuel - u202318612
 
@@ -40,8 +48,8 @@ Retuerto Rodríguez, Jorge Manuel - u202318612
 
 <td colspan="3">TB1</td>
 <td colspan="3">00/00/00</td>
-<td colspan="10">Retuerto Rodríguez, Jorge Manuel</td>
-<td colspan="5">BlaBlaBlaBlaBlaBlaBlaBlaBlaBlaBla</td>
+<td colspan="10">Acuña de la Cruz, Luis Alfredo <br><br> Aguilar Untiveros, Rodrigo Fabrizio <br><br> Howard Robles, Guillermo Arturo <br><br> Perez Encarnacion, Breithner Rodolfo <br><br> Retuerto Rodríguez, Jorge Manuel</td>
+<td colspan="5"></td>
 
 </tr>
 
@@ -160,13 +168,13 @@ Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capac
 <tr>
 <td colspan="3">Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
 <td colspan="3">TB1: Retuerto Rodríguez, Jorge Manuel</td>
-<td colspan="10">Tremendo</td>
+<td colspan="10">TB1: </td>
 </tr>
 
 <tr>
 <td colspan="3">Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
 <td colspan="3">TB1: Retuerto Rodríguez, Jorge Manuel</td>
-<td colspan="10">Tremendo</td>
+<td colspan="10">TB1: </td>
 </tr>
 
 </table>
@@ -175,9 +183,64 @@ Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: _Capac
 
 ## 1.1. Startup Profile
 
+NovaTech es una startup dedicada a transformar la vida de nuestros clientes mediante soluciones tecnológicas, eficientes y escalables en distintos sectores. Actualmente, tras detectar los desafíos críticos en el sector agricola, hemos creado AgroTech: una solución web que conectará la tecnología con la tierra. Mediante sensores de humedad y nutrientes, ofrecemos un control total a los sembríos en tiempo real. Asimismo, la aplicación analizará los datos entregados para generar recomendaciones y obtención de las zonas más fertiles para asegurar la obtención de las mejores cosechas en el futuro.
+
+**Misión:**
+
+Buscamos el desarrollo de tecnológia innovadora y eficiente que transformen la calidad de trabajo en diversos sectores laborales, optimizando el uso de recursos y máximizando utilidades para mejorar la calidad de vida de nuestros clientes.
+
+**Visión:**
+
+Ser la líder en la integración tecnológica multisectorial, reconocida por soluciones efectivas sostenibles y de alta eficiencia a nivel internacional.
+
 ### 1.1.1 Descripción de la Startup
 
 ### 1.1.2 Perfiles de integrantes del equipo
+
+<table>
+<tr>
+ <th colspan="4">Foto</th>
+ <th colspan="6">Apellido y nombre</th>
+ <th colspan="6">Carrera</th>
+ <th colspan="8">Acerca de</th>
+</tr>
+
+<tr>
+ <th colspan="4"><img width="350px" height="150px" src="assets/chapter1/Foto_Luis.jpeg"></th>
+ <th colspan="6">Acuña de la Cruz, Luis Alfredo</th>
+ <th colspan="6">Ingeniería de Software</th>
+ <th colspan="8">Mi nombre es Luis Alfredo Acuña de la Cruz (u202417228), tengo 19 años y estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me apasiona el desarrollo de software, el aprendizaje continuo y la resolución de problemas mediante soluciones innovadoras y eficientes. Busco aplicar buenas prácticas y tecnologías modernas para crear sistemas robustos, escalables y de alta calidad en cada proyecto.</th>
+</tr>
+
+<tr>
+ <th colspan="4"><img width="350px" height="150px" src="assets/chapter1/Foto_Rodrigo.jpeg"></th>
+ <th colspan="6">Aguilar Untiveros, Rodrigo Fabrizio</th>
+ <th colspan="6">Ingeniería de Software</th>
+ <th colspan="8">Mi nombre es Rodrigo, estudiante de Ingeniería de Software comprometido con el aprendizaje de nuevas metodologías de desarrollo. Me motiva el análisis de retos técnicos para diseñar soluciones que sean tanto funcionales como innovadoras. Mi enfoque está orientado a la creación de herramientas digitales robustas, priorizando siempre la optimización de procesos y la implementación de estándares de calidad que permitan un crecimiento constante en cada desarrollo.</th>
+</tr>
+
+<tr>
+ <th colspan="4"><img width="350px" height="150px" src="assets/chapter1/Foto_Guillermo.jpeg"></th>
+ <th colspan="6">Howard Robles, Guillermo Arturo</th>
+ <th colspan="6">Ingenieria de Software</th>
+ <th colspan="8">Mi nombre es Guillermo Arturo Howard Robles (u202222275) tengo 20 años, Soy estudiante de Ingeniería de Software, enfocado y en constante aprendizaje. Me apasiona investigar y analizar problemas para proponer soluciones innovadoras. Busco desarrollar software integral, aplicando las buenas prácticas y tecnologías modernas que aseguren eficiencia, escalabilidad, calidad y mejora continua en cada proyecto.</th>
+</tr>
+
+<tr>
+ <th colspan="4"><img width="350px" height="150px" src="assets/chapter1/Foto_Breithner.jpeg"></th>
+ <th colspan="6">Perez Encarnacion, Breithner Rodolfo</th>
+ <th colspan="6">Ingeniería de Software</th>
+ <th colspan="8">Mi nombre es Breithner Rodolfo Perez Encarnacion, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimientos y habilidades sólidas en el lenguaje C++ y en el diseño de modelos relacionales. Asimismo, poseo un manejo intermedio de bases de datos tanto SQL como NoSQL (MongoDB), incluyendo validación de reglas y pipelines de agregación. Me haré responsable del diseño del modelo relacional, la normalización de bases de datos y de asegurar la integridad técnica del proyecto junto a mi equipo.</th>
+</tr>
+
+<tr>
+ <th colspan="4"><img width="350px" height="150px" src="assets/chapter1/Foto_Jorge.jpg"></th>
+ <th colspan="6">Retuerto Rodríguez, Jorge Manuel</th>
+ <th colspan="6">Ingenieria de Software</th>
+ <th colspan="8">Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 20 años y estoy cursando el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi conocimiento y habilidades de programación son intermedias en C++, C#, HTML y CSS. Sin embargo, básicas en Python y Java. Me haré responsable de la comunicación del grupo, planificación y desarrollo junto a mi equipo.</th>
+</tr>
+
+</table>
 
 ## 1.2 Solution Profile
 
